@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/monikagra/Robot-users/static/css/main.c977fcb1.chunk.css",
-    "main.js": "/monikagra/Robot-users/static/js/main.0c70b15a.chunk.js",
-    "main.js.map": "/monikagra/Robot-users/static/js/main.0c70b15a.chunk.js.map",
-    "runtime-main.js": "/monikagra/Robot-users/static/js/runtime-main.0caad8cc.js",
-    "runtime-main.js.map": "/monikagra/Robot-users/static/js/runtime-main.0caad8cc.js.map",
-    "static/js/2.5764ffd5.chunk.js": "/monikagra/Robot-users/static/js/2.5764ffd5.chunk.js",
-    "static/js/2.5764ffd5.chunk.js.map": "/monikagra/Robot-users/static/js/2.5764ffd5.chunk.js.map",
-    "index.html": "/monikagra/Robot-users/index.html",
-    "precache-manifest.aa5d4ef08229319455067fc5679594fc.js": "/monikagra/Robot-users/precache-manifest.aa5d4ef08229319455067fc5679594fc.js",
-    "service-worker.js": "/monikagra/Robot-users/service-worker.js",
-    "static/css/main.c977fcb1.chunk.css.map": "/monikagra/Robot-users/static/css/main.c977fcb1.chunk.css.map",
-    "static/js/2.5764ffd5.chunk.js.LICENSE.txt": "/monikagra/Robot-users/static/js/2.5764ffd5.chunk.js.LICENSE.txt"
+    "main.css": "/Robot-users/static/css/main.c977fcb1.chunk.css",
+    "main.js": "/Robot-users/static/js/main.883b94d0.chunk.js",
+    "main.js.map": "/Robot-users/static/js/main.883b94d0.chunk.js.map",
+    "runtime-main.js": "/Robot-users/static/js/runtime-main.e583d124.js",
+    "runtime-main.js.map": "/Robot-users/static/js/runtime-main.e583d124.js.map",
+    "static/js/2.5764ffd5.chunk.js": "/Robot-users/static/js/2.5764ffd5.chunk.js",
+    "static/js/2.5764ffd5.chunk.js.map": "/Robot-users/static/js/2.5764ffd5.chunk.js.map",
+    "index.html": "/Robot-users/index.html",
+    "precache-manifest.ea42e8a208ade169dcd1f7512fa48344.js": "/Robot-users/precache-manifest.ea42e8a208ade169dcd1f7512fa48344.js",
+    "service-worker.js": "/Robot-users/service-worker.js",
+    "static/css/main.c977fcb1.chunk.css.map": "/Robot-users/static/css/main.c977fcb1.chunk.css.map",
+    "static/js/2.5764ffd5.chunk.js.LICENSE.txt": "/Robot-users/static/js/2.5764ffd5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0caad8cc.js",
+    "static/js/runtime-main.e583d124.js",
     "static/js/2.5764ffd5.chunk.js",
     "static/css/main.c977fcb1.chunk.css",
-    "static/js/main.0c70b15a.chunk.js"
+    "static/js/main.883b94d0.chunk.js"
   ]
 }
